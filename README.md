@@ -1,4 +1,5 @@
- hi 20 | engineer | always striving to lvl up ʕ•́ᴥ•̀ʔっ
+ hi   ʕ•́ᴥ•̀ʔっ
+ 20 | engineer | always striving to lvl up
 
 <!--
 **prajyot7070/prajyot7070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
